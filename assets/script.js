@@ -23,6 +23,7 @@ function start(){
 }
 
 function iniciarTime(){
+    start()
      intervalo = setInterval(start,1000)
      
 }
